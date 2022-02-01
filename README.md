@@ -18,7 +18,7 @@ As a bonus we impremented service worker and web manifest (???) files.
 ### GitHub Page
 https://github.com/mjs-esfsc/SMU-Project-3/
 ### Deployed at Heroku
-to be added
+https://twomenandahorse.herokuapp.com/
 
 ## Contributors 
 ### Mark Sammis - overall project management, powerpoint
